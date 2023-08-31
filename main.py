@@ -43,7 +43,7 @@ def delete_table(word_file):
 
     return processed_file_name
 
-# processed_doc_file_names = list(map(delete_table, doc_file_names))
+processed_doc_file_names = list(map(delete_table, doc_file_names))
 
 # =================================================================================
 # 2. CONVERT MS WORD FILES TO TEXT FILES
@@ -56,12 +56,12 @@ def convert_word_to_txt(processed_word_file):
     return text_file_name
 
 
-# text_file_names = list(map(convert_word_to_txt, processed_doc_file_names))
+text_file_names = list(map(convert_word_to_txt, processed_doc_file_names))
 
-text_file_names = [
-        (constant.POLICY_TEXT_FOLDER + '/' + text)
-        for text in os.listdir(constant.POLICY_TEXT_FOLDER)
-    ]
+# text_file_names = [
+#         (constant.POLICY_TEXT_FOLDER + '/' + text)
+#         for text in os.listdir(constant.POLICY_TEXT_FOLDER)
+#     ]
 
 # =================================================================================
 # 3. READ TEXT FILES CONTENTS
