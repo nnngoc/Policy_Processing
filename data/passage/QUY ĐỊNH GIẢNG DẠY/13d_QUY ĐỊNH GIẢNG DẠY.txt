@@ -1,0 +1,13 @@
+QUY ĐỊNH GIẢNG DẠY
+
+CHƯƠNG 4. CÔNG TÁC ĐÁNH GIÁ KẾT QUẢ HỌC TẬP
+Điều 13. Kiểm tra giữa kỳ, thi cuối kỳ
+
+
+13.4 Thời lượng kiểm tra, thi
+Căn cứ vào khối lượng học tập (số tín chỉ - TC) của MH, thời lượng kiểm tra/thi và thời lượng coi kiểm tra/coi thi (gọi tắt là coi thi) được quy định như sau:
+-   Thời lượng kiểm tra/thi (thời gian làm bài) là một trong các thời lượng sau: 50’, 60’, 70’, 80’, 90’, 100’, 110’, 120’, 130’, 140’, 150’. Trong đó, thời lượng kiểm tra/thi theo hình thức trắc nghiệm không quá 90’ và thời lượng kiểm tra không vượt quá thời lượng thi của cùng một môn học trong một học kỳ.
+-   Thời gian coi thi (của CBCT) gồm thời lượng kiểm tra/thi cộng thêm 30’, trong đó bao gồm thời gian SV làm bài, thời gian CBCT thực hiện trước giờ làm bài (đánh số thứ tự chỗ ngồi, gọi sinh viên vào phòng, phát đề), thời gian thu bài và di chuyển giữa các nơi nhận đề - phòng kiểm tra/thi - nộp bài.
+-   Thời gian trực thi (của CB trực thi) là thời gian coi thi cộng thêm 30’, trong đó bao gồm cả thời gian chuẩn bị trước khi CBCT nhận túi bài, thời gian sau khi CBCT nộp túi bài.
+-   Tổng thời lượng kiểm tra, thi của một môn học tối đa là 50’ x [Số TC môn học].
+

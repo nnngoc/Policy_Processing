@@ -1,0 +1,10 @@
+QUY ĐỊNH CHUNG VỀ HỌC VỤ VÀ ĐÀO TẠO
+
+PHỤ LỤC 1. CẤU TRÚC MÃ SỐ NGƯỜI HỌC VÀ MÃ SỐ HỌC PHẦN
+2. Cấu trúc mã số học phần
+
+
+Mã số các học phần có dạng MMLXXX[T] trong đó MM là viết tắt của ngành/Khoa, L là cấp độ học phần, XXX là thứ tự học phần và T là hình thức học phần (nếu cần).
+L được hiểu như sau:
+MM được viết tắt như sau:
+

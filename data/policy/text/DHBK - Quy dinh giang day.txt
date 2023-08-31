@@ -1,0 +1,814 @@
+QUY ĐỊNH GIẢNG DẠY
+
+(Ban hành kèm theo Quyết định số: /QĐ-ĐHBK, ngày tháng năm 2021
+
+của Hiệu trưởng trường Đại học Bách Khoa – ĐHQG-HCM)
+
+CHƯƠNG 1. QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+
+Quy định này quy định các công tác tổ chức giảng dạy: kế hoạch giảng
+dạy, thực hiện giảng dạy, đánh giá kết quả học tập, tiêu chuẩn giảng
+viên.
+
+Quy định này áp dụng đối với tất cả nhân sự tham gia công tác giảng dạy,
+hỗ trợ giảng dạy ở trình độ đại học và sau đại học tại trường Đại học
+Bách Khoa – Đại học Quốc gia thành phố Hồ Chí Minh (sau đây gọi tắt là
+trường hoặc nhà trường).
+
+Điều 2. Các khái niệm
+
+Các khái niệm có dùng trong quy định này mà không được định nghĩa rõ
+ràng trong quy định sẽ căn cứ trên các quy định khác hiện hành (các văn
+bản, quy định, quy chế, thông tư, nghị định, luật, hướng dẫn của nhà
+trường, của Đại học Quốc gia thành phố Hồ Chí Minh, của các Bộ ngành và
+Chính phủ).
+
+Một số khái niệm dùng riêng trong quy định này:
+
+-   Khoa: chỉ chung cho các Khoa và Trung tâm đào tạo thuộc trường như
+    Trung tâm Đào tạo Bảo dưỡng Công nghiệp và Trung tâm Ngoại ngữ. Các
+    Khoa và Trung tâm đảm nhận việc giảng dạy các môn học trong chương
+    trình đào tạo các bậc của trường.
+
+-   Bộ môn (BM): chỉ chung cho các Bộ môn và các Phòng Thí nghiệm, Xưởng
+    thực hành của Khoa có phụ trách giảng dạy các môn học trong chương
+    trình đào tạo các bậc của trường.
+
+-   Phòng Thí nghiệm (PTN): chỉ chung cho các Phòng Thí nghiệm, Xưởng
+    thực hành của Trường, Khoa, Bộ môn có phụ trách giảng dạy các môn
+    học trong chương trình đào tạo các bậc của trường.
+
+-   Các phòng đào tạo: chỉ chung cho các Phòng Đào tạo (PĐT), Phòng Đào
+    tạo Sau đại học (PĐTSĐH). Các công việc do từng phòng đào tạo phụ
+    trách theo sự phân công nhiệm vụ của nhà trường.
+
+-   Cán bộ giảng dạy (CBGD): chỉ chung cho các giảng viên (GV) giảng dạy
+    các tiết lý thuyết, hướng dẫn bài tập, thực hành tại lớp, bài tập
+    lớn (BTL), tiểu luận thành phần của môn học (TL), hướng dẫn thực
+    hành, thực tập, thí nghiệm.
+
+-   Giảng viên hướng dẫn (GVHD): chỉ chung cho các giảng viên (GV) thực
+    hiện hướng dẫn BTL, TL, đồ án môn học (ĐA), thực tập ngoài trường
+    (TTNT), đề cương luận văn (ĐCLV), tiểu luận tốt nghiệp (TLTN), luận
+    văn tốt nghiệp (LVTN).
+
+-   Cán bộ hướng dẫn (CBHD): chỉ chung cho người thực hiện hướng dẫn
+    BTL, TL, thực hành, thí nghiệm hoặc người hướng dẫn thực tập ngoài
+    trường tại cơ sở.
+
+-   Cán bộ hỗ trợ giảng dạy (CBHT): chỉ chung người thực hiện công tác
+    hỗ trợ giảng dạy nêu trong quy định này.
+
+CHƯƠNG 2. TỔ CHỨC GIẢNG DẠY
+
+Điều 3. Kế hoạch giảng dạy
+
+Kế hoạch giảng dạy (KHGD) là danh sách các môn học (MH) sẽ mở trong một
+học kỳ (HK) và có thể là số nhóm lớp mở cho MH đó.
+
+  3.1 Lập kế hoạch giảng dạy
+
+Khoa phụ trách Chương trình đào tạo (CTĐT) phối hợp với các phòng đào
+tạo lập KHGD cho từng HK. KHGD sẽ được lập trước khi các phòng đào tạo
+bắt đầu xếp thời khóa biểu (TKB), thường vào giữa HK trước HK cần lập
+KHGD hoặc theo kế hoạch cả năm.
+
+KHGD được lập cho từng hình thức và bậc đào tạo: đại học chính quy
+(ĐH/CĐg), vừa làm vừa học (VLVH), đào tạo từ xa (ĐTTXa), sau đại học
+(SĐH).
+
+KHGD cần phải cân đối với nhu cầu học tập của sinh viên (SV) để đảm bảo
+công tác giảng dạy là tốt nhất cho SV.
+
+  3.2 Điều chỉnh đề cương môn học
+
+Đề cương môn học (ĐCMH) phải được trình hoặc điều chỉnh trước khi bắt
+đầu HK ít nhất 02 tuần. Các cập nhật về số tiết lý thuyết, số tiết bài
+tập, … và cách bố trí tiết học mỗi tuần cần phải cung cấp cho các phòng
+đào tạo cùng với KHGD.
+
+ĐCMH phải được công bố công khai cho người học và phải được tuân thủ
+nghiêm ngặt bởi tất cả các bên liên quan. Các phòng đào tạo phải lưu trữ
+các ĐCMH đã được cập nhật.
+
+Điều 4. Biểu đồ kế hoạch học tập và giảng dạy
+
+Xem quy định chung về học vụ và đào tạo.
+
+Điều 5. Thời khóa biểu
+
+Xem quy định chung về học vụ và đào tạo.
+
+CHƯƠNG 3. THỰC HIỆN GIẢNG DẠY
+
+Điều 6. Các quy định chung về thực hiện giảng dạy
+
+  6.1 Giảng dạy theo thời khóa biểu
+
+CBGD giảng dạy theo đúng TKB đã được phân công.
+
+Đối với các MH, phần môn học không có thời khóa biểu cố định như ĐA,
+BTL, TL, LVTN…, CBGD phải đăng ký lịch tiếp SV định kỳ với Khoa và phải
+tuân thủ theo lịch đã đăng ký. Khuyến khích CBGD dùng hệ thống BKeL để
+thông báo, trao đổi với SV trong quá trình hướng dẫn.
+
+Nếu phát hiện có sự cố về nhầm phòng, trùng phòng, … CBGD thông báo ngay
+cho các bộ phận liên quan để giải quyết, đảm bảo quyền lợi chung của nhà
+trường, CBGD và SV.
+
+  6.2 Thay đổi thời khóa biểu
+
+Trong các trường hợp bất khả kháng, giờ học hàng tuần trong TKB của một
+lớp có thể được thay đổi trong quá trình giảng dạy theo yêu cầu của CBGD
+và SV, hoặc theo yêu cầu của nhà trường hoặc của cấp trên. Giờ học mới
+phải đảm bảo không trùng giờ với tất cả các SV trong lớp. Khi thay đổi
+giờ học, phải tuân thủ đúng khung giờ xếp TKB của loại hình lớp.
+
+Trong một số trường hợp, TKB có thể bị thay đổi phòng học theo yêu cầu
+của nhà trường, CBGD và SV.
+
+  6.3 Nghỉ dạy, dạy bù và dạy thay
+
+Trong các trường hợp bất khả kháng, hoặc theo phân công của Khoa, một số
+phiên học có thể có CBGD khác dạy thay cho CBGD được phân công ban đầu.
+Nếu việc dạy thay diễn ra thường xuyên, Khoa cần phải phân công lại CBGD
+cho lớp học. Người dạy thay phải có trình độ và năng lực phù hợp với yêu
+cầu của phần nội dung dạy thay. CBGD phụ trách lớp học phải thông báo
+trường hợp dạy thay cho Bộ môn.
+
+Trong trường hợp không thể phân công người dạy thay, CBGD cần phải báo
+nghỉ dạy cho nhà trường, và cho tất cả các SV bị ảnh hưởng. Thời hạn báo
+cho SV trễ nhất là trước giờ lên lớp của phiên học. Thời hạn báo cho nhà
+trường trễ nhất là trước 21g00 của cùng ngày nghỉ. Khuyến khích báo
+trước cho nhà trường và SV trước 16g00 của ngày làm việc trước ngày nghỉ
+02 ngày.
+
+CBGD không được nghỉ dạy ở phiên đầu tiên của lớp học theo thời khóa
+biểu.
+
+CBGD phải đảm bảo giảng dạy đủ giờ theo quy định của MH. Khi không giảng
+dạy đủ giờ, CBGD cần phải dạy bù trong các tuần học theo Biểu đồ học tập
+và trước khi SV thi cuối kỳ. Một lần dạy bù, chỉ được dạy bù cho một
+phiên học của lớp và không quá số tiết của phiên học đã được phân công
+trên TKB. Khi dạy bù, phải đảm bảo một SV không học một môn học quá 05
+tiết liên tục và không quá 10 tiết trong cùng một ngày.
+
+Khi đăng ký dạy bù, CBGD phải đăng ký trước 16g00 của ngày làm việc cách
+trước ngày dạy bù tối thiểu 01 ngày và tối đa 07 ngày. CBGD có trách
+nhiệm thông báo cho toàn bộ các SV bị ảnh hưởng bởi việc dạy bù. Khi dạy
+bù, cho phép tối đa 10% số SV bị trùng giờ. CBGD phải đảm bảo quyền lợi
+học tập của SV khi tổ chức dạy bù, có trách nhiệm hỗ trợ các SV bị trùng
+giờ không tham gia lớp học bù được.
+
+CBGD không được phép nghỉ dạy, dạy bù quá 30% số tiết đã được phân công
+trong TKB.
+
+Việc báo nghỉ dạy, dạy bù, dạy thay được thực hiện qua hệ thống Hỗ trợ
+giảng dạy trên cổng thông tin và dịch vụ trực tuyến nhà trường (myBK -
+mybk.hcmut.edu.vn). Trong trường hợp đặc biệt, cần liên hệ Ban Thanh tra
+Giáo dục để được hỗ trợ.
+
+  6.4 Dạy và học trực tuyến
+
+a) Nhà trường được tổ chức các lớp học phương thức trực tuyến khi đáp
+ứng các quy định hiện hành về ứng dụng công nghệ thông tin trong quản lý
+và tổ chức đào tạo qua mạng; có các giải pháp bảo đảm chất lượng và minh
+chứng về chất lượng tổ chức lớp học phương thức trực tuyến không thấp
+hơn chất lượng lớp học phương thức trực tiếp.
+
+b) Việc dạy và học trực tuyến được thực hiện theo quy định hiện hành.
+
+Điều 7. Thực hiện công tác giảng dạy
+
+  7.1 Sử dụng hệ thống hỗ trợ giảng dạy trực tuyến
+
+Xem quy định chung về học vụ và đào tạo.
+
+  7.2 Công khai đề cương môn học
+
+Xem quy định chung về học vụ và đào tạo.
+
+  7.3 Công khai kết quả học tập và mức độ đáp ứng chuẩn đầu ra của SV
+
+Xem quy định chung về học vụ và đào tạo.
+
+  7.4 Giảng dạy các môn học có nhiều nhóm lớp trong học kỳ
+
+Xem quy định chung về học vụ và đào tạo.
+
+Điều 8. Hướng dẫn bài tập, thực hành, thí nghiệm, thực tập, tham quan
+ngoài trường
+
+  8.1 Hướng dẫn bài tập, thực hành tại lớp
+
+CBHD các phần học bài tập, thực hành tại lớp có thể là CBGD hoặc các
+CBHT có trình độ và năng lực phù hợp.
+
+CBHD hướng dẫn SV làm bài tập, thực hành tại lớp theo đúng ĐCMH của môn
+học.
+
+  8.2 Hướng dẫn thực hành, thí nghiệm tại PTN
+
+CBHD các môn học thực hành, thí nghiệm là các GV có trình độ và năng lực
+phù hợp. CBHD các phần học thực hành, thí nghiệm của các môn học có thể
+là các CBHT có trình độ và năng lực phù hợp.
+
+CBHD có trách nhiệm bảo đảm đầy đủ phương tiện thực hành, thí nghiệm
+(máy móc, dụng cụ, thiết bị, hóa chất, linh kiện, vật tư, …) theo đúng
+nội dung bài thực hành, thí nghiệm và định mức tiêu hao (nếu có) trước
+khi bắt đầu hướng dẫn. CBHD chỉ cho phép SV làm bài thực hành, thí
+nghiệm khi SV đã có sự chuẩn bị sẵn sàng và nắm vững nội dung thực hành,
+thí nghiệm.
+
+CBHD bố trí giờ thực hành, thí nghiệm bù cho các SV được phép vắng mặt ở
+các bài trước.
+
+CBHD phải đảm bảo an toàn, trật tự theo đúng nội quy PTN, chỉ cho các SV
+có Bảo hiểm Y tế (BHYT) và Bảo hiểm tai nạn (BHTN) vào PTN để thực hiện
+bài thực hành, thí nghiệm.
+
+  8.3 Hướng dẫn thực tập, tham quan ngoài trường
+
+Các đợt thực tập, tham quan ngoài trường phải được Khoa lập kế hoạch rõ
+ràng, có địa điểm, thời gian, GVHD phụ trách, người tham dự và có thỏa
+thuận với cơ sở về việc thực tập, tham quan. Kế hoạch cũng phải nêu rõ
+các chi phí và nguồn chi phí (từ trường, từ SV, từ cơ sở, …).
+
+Khoa gửi kế hoạch và danh sách đoàn thực tập cho các phòng đào tạo để
+trình Hiệu trưởng ra quyết định thành lập các đoàn thực tập, tham quan.
+
+GVHD chịu trách nhiệm theo dõi, phối hợp với các cơ sở (CBHD cơ sở) để
+đảm bảo nội dung thực tập theo đúng ĐCMH và đạt chất lượng thực tập tốt
+nhất.
+
+Điều 9. Hướng dẫn đồ án, bài tập lớn, tiểu luận thành phần
+
+  9.1 Hướng dẫn đồ án
+
+Khoa quy định quy trình hướng dẫn đồ án chung cho toàn Khoa hoặc cho các
+môn học cụ thể. GVHD hướng dẫn SV thực hiện đồ án theo quy trình đã ban
+hành và phù hợp với nội dung hướng dẫn.
+
+GVHD phải trao đổi với từng SV hoặc từng nhóm nhỏ SV (2-5 SV) về nội
+dung đồ án định kỳ theo quy trình của Khoa. GVHD phải hướng dẫn SV thực
+hiện sổ/phiếu theo dõi thực hiện đồ án và báo cáo tiến độ thực hiện.
+GVHD có thể cấm thi (bảo vệ đồ án) nếu SV không thực hiện đồ án theo
+đúng tiến độ.
+
+  9.2 Hướng dẫn Bài tập lớn, Tiểu luận
+
+Khoa có thể phân công các CBHD khác với CBGD môn học để huớng dẫn phần
+BTL, TL theo yêu cầu của CBGD hoặc yêu cầu chung của Khoa.
+
+CBHD hướng dẫn các SV thực hiện BTL, TL theo quy trình hướng dẫn đồ án,
+hoặc có thể yêu cầu SV nộp bài theo từng phần và CBHD phản hồi cho các
+SV (từng SV hoặc từng nhóm SV).
+
+Điều 10. Hướng dẫn Đề cương, Tiểu luận và Luận văn tốt nghiệp
+
+Khoa quy định quy trình ra đề tài, phân bố đề tài cho SV và quy trình
+hướng dẫn đề cương luận văn (ĐCLV), tiểu luận tốt nghiệp (TLTN), luận
+văn tốt nghiệp (LVTN) chung cho toàn Khoa.
+
+Các GVHD phải có trình độ tối thiểu là Thạc sĩ và có năng lực chuyên môn
+phù hợp với các nội dung hướng dẫn. Đối với các đề tài có sự phối hợp
+với cơ sở, ngoài GVHD, các cán bộ có trình độ từ bậc đại học trở lên tại
+cơ sở có thể được phân công phối hợp hướng dẫn.
+
+  10.1 Ra đề tài
+
+Khoa phân công các GVHD ra các đề tài ĐCLV, TLTN và LVTN và phê duyệt
+nội dung đề tài trước khi công bố cho SV.
+
+Khoa phân bố đề tài cho SV và phân công GVHD hướng dẫn ĐCLV, TLTN và
+LVTN cùng với các đề tài và các SV thực hiện.
+
+  10.2 Hướng dẫn Đề cương, Tiểu luận và Luận văn tốt nghiệp
+
+GVHD hướng dẫn SV thực hiện theo quy trình hướng dẫn đã ban hành và phù
+hợp với nội dung hướng dẫn.
+
+GVHD phải trao đổi với từng SV hoặc từng nhóm nhỏ SV (2-5 SV) về nội
+dung đề tài định kỳ theo quy trình của Khoa. GVHD phải hướng dẫn SV thực
+hiện sổ/phiếu theo dõi thực hiện đề tài và báo cáo tiến độ thực hiện.
+GVHD có thể cấm thi (bảo vệ) nếu SV không thực hiện đề tài theo đúng
+tiến độ.
+
+Nếu nội dung hướng dẫn LVTN được thực hiện tại một cơ sở ngoài trường,
+Khoa làm công văn đề nghị kèm theo kế hoạch thực hiện LVTN tương tự như
+các đợt thực tập ngoài trường, các phòng đào tạo trình Hiệu trưởng ra
+quyết định cử SV thực hiện LVTN tại cơ sở bên ngoài. Mặc dù vậy, GVHD
+được phân công hướng dẫn là người có trách nhiệm cao nhất về nội dung
+hướng dẫn và chất lượng thực hiện LVTN trong trường hợp này.
+
+CHƯƠNG 4. CÔNG TÁC ĐÁNH GIÁ KẾT QUẢ HỌC TẬP
+
+Điều 11. Thang điểm đánh giá, cách thức tính điểm tổng kết môn học
+
+Xem quy định chung về học vụ và đào tạo.
+
+Điều 12. Trách nhiệm đánh giá kết quả học tập
+
+CBGD được phân công giảng dạy, hướng dẫn nhóm lớp nào hoặc được phân
+công hướng dẫn (BTL, ĐA, …) nhóm SV nào (CBGD phụ trách) có trách nhiệm
+đánh giá kết quả học tập nhóm lớp đó hoặc nhóm SV đó.
+
+Trường hợp phần môn học, BTL, ĐA, … là thành phần của một môn học do
+CBGD khác phụ trách, CBGD phần môn học cần chuyển kết quả đánh giá cho
+CBGD phụ trách hoặc cho BM nếu có sự tráo đổi SV giữa các nhóm lớp của
+cùng môn học và do nhiều CBGD phụ trách. Việc chuyển kết quả này phải
+diễn ra trước ít nhất 01 tuần của hạn nộp điểm tổng kết môn học.
+
+Trường hợp một nhóm lớp môn học do nhiều CBGD cùng tham gia giảng dạy,
+thì CBGD phụ trách môn học quyết định kết quả học tập.
+
+Điều 13. Kiểm tra giữa kỳ, thi cuối kỳ
+
+  13.1 Kiểm tra giữa kỳ
+
+Các MH lý thuyết có tối đa 01 lần kiểm tra giữa kỳ (gọi tắt là kiểm
+tra). Các MH không có kiểm tra phải có thêm ít nhất một thành phần điểm
+khác với thi cuối kỳ.
+
+Các MH dạy cho toàn trường sẽ có lịch kiểm tra chung vào tuần kiểm tra
+trên Biểu đồ học tập. Các MH dạy cho toàn Khoa hoặc các MH có quá nhiều
+nhóm lớp có thể được xếp lịch kiểm tra chung trong tuần lễ này nếu Khoa
+có nhu cầu và phải đăng ký với PĐT để được xếp lịch. Các MH khác, CBGD
+có thể tổ chức kiểm tra vào các buổi học và có thể tổ chức sớm hơn hay
+muộn hơn 01 tuần so với tuần kiểm tra trên Biểu đồ học tập.
+
+  13.2 Thi cuối kỳ
+
+Tất cả các MH lý thuyết hoặc lý thuyết và các thành phần khác đều phải
+tổ chức thi cuối kỳ (gọi tắt là thi).
+
+  13.3 Tỉ lệ đánh giá, hình thức kiểm tra, thi
+
+Tỉ lệ đánh giá cho điểm kiểm tra, điểm thi, hình thức kiểm tra, hình
+thức thi được quy định giống như Quy chế đào tạo – học vụ hiện hành và
+phù hợp với ĐCMH.
+
+  13.4 Thời lượng kiểm tra, thi
+
+Căn cứ vào khối lượng học tập (số tín chỉ - TC) của MH, thời lượng kiểm
+tra/thi và thời lượng coi kiểm tra/coi thi (gọi tắt là coi thi) được quy
+định như sau:
+
+-   Thời lượng kiểm tra/thi (thời gian làm bài) là một trong các thời
+    lượng sau: 50’, 60’, 70’, 80’, 90’, 100’, 110’, 120’, 130’, 140’,
+    150’. Trong đó, thời lượng kiểm tra/thi theo hình thức trắc nghiệm
+    không quá 90’ và thời lượng kiểm tra không vượt quá thời lượng thi
+    của cùng một môn học trong một học kỳ.
+
+-   Thời gian coi thi (của CBCT) gồm thời lượng kiểm tra/thi cộng thêm
+    30’, trong đó bao gồm thời gian SV làm bài, thời gian CBCT thực hiện
+    trước giờ làm bài (đánh số thứ tự chỗ ngồi, gọi sinh viên vào phòng,
+    phát đề), thời gian thu bài và di chuyển giữa các nơi nhận đề -
+    phòng kiểm tra/thi - nộp bài.
+
+-   Thời gian trực thi (của CB trực thi) là thời gian coi thi cộng thêm
+    30’, trong đó bao gồm cả thời gian chuẩn bị trước khi CBCT nhận túi
+    bài, thời gian sau khi CBCT nộp túi bài.
+
+-   Tổng thời lượng kiểm tra, thi của một môn học tối đa là 50’ x [Số TC
+    môn học].
+
+CHƯƠNG 5. CÔNG TÁC HỖ TRỢ GIẢNG DẠY
+
+Điều 14. Hoạt động hỗ trợ giảng dạy
+
+  14.1 Các hoạt động hỗ trợ giảng dạy
+
+Hoạt động trợ giảng nhằm hỗ trợ cho GV trong các hoạt động giảng dạy,
+bao gồm: Chuẩn bị bài giảng, bài tập, bài thực hành, bài thí nghiệm; phụ
+đạo; hướng dẫn bài tập, BTL, TL, thảo luận, thí nghiệm, thực hành; chấm
+bài tập.
+
+  14.2 Cán bộ hỗ trợ giảng dạy
+
+Cán bộ hỗ trợ giảng dạy (CBHT) là các giảng viên, giảng viên đang tập
+sự, trợ giảng, kỹ sư phục vụ giảng dạy, nghiên cứu viên, nghiên cứu
+sinh, học viên cao học đang học tập, nghiên cứu ở các Khoa và SV giỏi
+(xếp loại học lực giỏi hoặc/và có kết quả học tập của môn học SV tham
+gia hỗ trợ đạt loại giỏi) bậc đại học năm cuối khóa, những người có kinh
+nghiệm thực tiễn ở trong và ngoài trường.
+
+  14.3 Phân công hỗ trợ giảng dạy
+
+Khoa phân công các CBHT có chuyên môn và năng lực phù hợp tham gia hỗ
+trợ giảng dạy cho các môn học, phần môn học do Khoa phụ trách, có sự tư
+vấn, đề nghị từ GV phụ trách môn học (nếu có) và các CBGD đang giảng dạy
+môn học. Việc phân công thực hiện như các điều khoản về phân công giảng
+dạy trong quy định này.
+
+Các công việc hỗ trợ được phân công phải có trong ĐCMH.
+
+  14.4 Khối lượng giảng dạy của công tác hỗ trợ giảng dạy
+
+Công tác hỗ trợ giảng dạy được tính khối lượng giảng dạy và thù lao
+giảng dạy theo quy định.
+
+CHƯƠNG 6. TIÊU CHUẨN GIẢNG VIÊN
+
+Điều 15. Giảng viên tham gia đào tạo trình độ đại học
+
+Xem phụ lục 1.
+
+Điều 16. Giảng viên tham gia đào tạo Chương trình Chất lượng cao, Tiên
+tiến, Liên kết quốc tế
+
+Xem phụ lục 2.
+
+Điều 17. Giảng viên tham gia đào tạo Chương trình Kỹ sư Chất lượng cao
+Việt-Pháp, Chương trình Kỹ sư Việt-Nhật, Chương trình Tài năng
+
+Xem phụ lục 3.
+
+Điều 18. Giảng viên tham gia đào tạo trình độ thạc sĩ
+
+Xem phụ lục 4.
+
+Điều 19. Giảng viên tham gia đào tạo trình độ tiến sĩ
+
+Xem phụ lục 5.
+
+CHƯƠNG 7. KHEN THƯỞNG, KỶ LUẬT
+
+Điều 20. Khen thưởng
+
+CBGD làm tốt công tác sẽ được đề nghị khen thưởng theo các quy định hiện
+hành.
+
+Điều 21. Kỷ luật
+
+CBGD, GVHD, CBHT, CBCT vi phạm các điều khoản trong quy định này có thể
+bị đề nghị kỷ luật theo quy định hiện hành của Hội đồng kỷ luật Trường.
+
+CHƯƠNG 8. ĐIỀU KHOẢN THI HÀNH
+
+Điều 22. Điều khoản thi hành
+
+  Quy định này được áp dụng thay thế cho các quy định giảng dạy và các
+  điều chỉnh, bổ sung về giảng dạy ban hành trước đây. Các quy định
+  trước đây trái với quy định này đều bị bãi bỏ. Việc điều chỉnh, bổ
+  sung các điều khoản của quy định này do Hiệu trưởng quyết định theo đề
+  nghị của Hội đồng học vụ.
+
+  Bảng ký hiệu viết tắt
+
+  Chữ viết tắt Giải nghĩa
+
+  Bộ GD&ĐT Bộ Giáo dục và Đào tạo
+
+  BHYT Bảo hiểm Y tế
+
+  BHTN Bảo hiểm tai nạn
+
+  BKeL Hệ thống hỗ trợ giảng dạy Bách Khoa e-Learning
+
+  BM Bộ môn
+
+  BTL Bài tập lớn
+
+  CBCT Cán bộ coi thi
+
+  CBGD Cán bộ giảng dạy
+
+  CBHD Cán bộ hướng dẫn
+
+  CBHT Cán bộ hỗ trợ
+
+  CĐg Cao đẳng
+
+  CNBM Chủ nhiệm Bộ môn
+
+  CTĐT Chương trình đào tạo
+
+  ĐA Đồ án
+
+  ĐCLV Đề cương luận văn
+
+  ĐCMH Đề cương môn học
+
+  ĐH Đại học
+
+  ĐHBK Trường Đại học Bách Khoa – Đại học Quốc gia Tp. Hồ Chí Minh
+
+  ĐHQG Đại học Quốc gia Tp. Hồ Chí Minh
+
+  ĐTTXa Đào tạo từ xa qua mạng
+
+  KHGD Kế hoạch giảng dạy
+
+  GV Giảng viên
+
+  GVHD Giảng viên hướng dẫn
+
+  HK Học kỳ
+
+  LVTN Luận văn tốt nghiệp
+
+  MH Môn học
+
+  PĐT Phòng Đào tạo
+
+  PĐTSĐH Phòng Đào tạo Sau đại học
+
+  PTN Phòng thí nghiệm
+
+  SĐH Sau đại học
+
+  SV Sinh viên
+
+  TC Tín chỉ
+
+  TKB Thời khóa biểu
+
+  TL Tiểu luận thành phần môn học
+
+  TLTN Tiểu luận tốt nghiệp
+
+  TTNT Thực tập ngoài trường
+
+  TTTN Thực tập tốt nghiệp
+
+  VLVH Vừa Làm Vừa Học
+
+  VPĐTQT Văn phòng Đào tạo Quốc tế
+
+  Phụ lục 1. Tiêu chuẩn giảng viên tham gia đào tạo trình độ đại học
+
+Thông tư số 23/2014/TT-BGDĐT, ngày 18/07/2014 có quy định như sau:
+
+1.1. Giảng viên
+
+a) Có trình độ thạc sĩ trở lên. Riêng giảng viên dạy lý thuyết các học
+phần thuộc khối kiến thức ngành, chuyên ngành phải có trình độ tiến sĩ
+hoặc chức danh giáo sư, phó giáo sư hoặc có trình độ thạc sĩ tốt nghiệp
+ở các trường đại học của các nước phát triển đúng ngành hoặc thuộc ngành
+gần (đối với các ngành đặc thù);
+
+b) Có năng lực chuyên môn, NCKH đáp ứng yêu cầu của CTĐT chất lượng cao;
+có kinh nghiệm giảng dạy liên quan đến ngành CTĐT chất lượng cao từ 3
+năm trở lên; có phương pháp giảng dạy hiệu quả; áp dụng tốt công nghệ
+thông tin trong giảng dạy và NCKH;
+
+c) Giảng viên dạy các học phần chuyên môn bằng ngoại ngữ, ngoài các tiêu
+chuẩn nêu tại điểm a, b khoản này, phải có trình độ ngoại ngữ bậc 5/6
+trở lên theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam (hoặc
+tương tương) hoặc được đào tạo trình độ đại học trở lên toàn thời gian ở
+nước ngoài bằng ngôn ngữ đó;
+
+1.2. Trợ giảng
+
+a) Trợ giảng phải có đủ năng lực chuyên môn, ngoại ngữ đáp ứng yêu cầu
+của học phần; sử dụng tốt các thiết bị hiện đại phục vụ giảng dạy để hỗ
+trợ giảng viên trong hướng dẫn sinh viên thực hiện bài tập, hướng dẫn
+thực hành, thảo luận, seminar, làm đồ án, khoá luận tốt nghiệp;
+
+b) Cơ sở đào tạo được phép sử dụng nghiên cứu sinh, học viên, sinh viên
+giỏi tốt nghiệp các CTĐT cử nhân tài năng, kỹ sư chất lượng cao, chương
+trình tiên tiến, CTCLC tham gia hoạt động trợ giảng.
+
+  Phụ lục 2. Tiêu chuẩn giảng viên tham gia đào tạo chương trình Chất
+  lượng cao, Tiên tiến, Liên kết quốc tế
+
+2.1. Phạm vi điều chỉnh và đối tượng áp dụng
+
+Giảng viên Việt Nam, Giảng viên nước ngoài và trợ giảng tham gia giảng
+dạy/trợ giảng Chương trình Đào tạo Quốc tế trình độ đại học của trường
+Đại học Bách Khoa – Đại học Quốc gia TPHCM.
+
+2.2. Quy định
+
+  Phụ lục 3. Tiêu chuẩn giảng viên tham gia đào tạo chương trình Kỹ sư
+  Chất lượng cao Việt-Pháp, Chương trình Kỹ sư Việt-Nhật, Chương trình
+  Tài năng
+
+3.1. Phạm vi áp dụng
+
+Quy định này áp dụng cho các Giảng viên và Cán bộ hỗ trợ giảng dạy tham
+gia giảng dạy, hỗ trợ giảng dạy các lớp của Chương trình Kỹ sư Chất
+lượng cao Việt-Pháp (PFIEV); Chương trình Kỹ sư Việt-Nhật (VJEP); các
+lớp của Chương trình Tài năng (CTTN) nếu có mở riêng; và giảng dạy, hỗ
+trợ giảng dạy phần mở rộng của các môn học tài năng trong CTTN.
+
+3.2. Giảng viên
+
+- Có trình độ Tiến sĩ trở lên hoặc có trình độ Thạc sĩ tốt nghiệp tại
+các trường Đại học nước ngoài đúng ngành hoặc thuộc ngành gần;
+
+- Có năng lực chuyên môn, NCKH đáp ứng yêu cầu định hướng nghiên cứu,
+học tập xuất sắc của PFIEV, VJEP và CTTN; có kinh nghiệm giảng dạy liên
+quan tới ngành đào tạo tham gia giảng dạy; có phương pháp dạy hiệu quả;
+áp dụng tốt các công nghệ thông tin trong giảng dạy và NCKH;
+
+- Giảng viên giảng dạy các môn học bằng ngoại ngữ cần phải có thêm yêu
+cầu về trình độ ngoại ngữ bậc 5/6 trở lên theo khung năng lực ngoại ngữ
+6 bậc dùng cho Việt Nam (hoặc tương đương) hoặc được đào tạo toàn thời
+gian ở nước ngoài bằng ngoại ngữ tương ứng.
+
+3.3. Cán bộ hỗ trợ giảng dạy
+
+Cán bộ hỗ trợ giảng dạy (CBHT) phải có đủ năng lực chuyên môn, ngoại ngữ
+đáp ứng yêu cầu của học phần, sử dụng tốt các thiết bị hiện đại phục vụ
+giảng dạy để hỗ trợ giảng viên trong hướng dẫn sinh viên thực hiện bài
+tập, hướng dẫn thực hành, thảo luận, seminar và khóa luận, luận văn tốt
+nghiệp.
+
+CBHT là các giảng viên, giảng viên đang tập sự, trợ giảng, kỹ sư phục vụ
+giảng dạy, nghiên cứu viên, nghiên cứu sinh, học viên cao học đang học
+tập, nghiên cứu ở các Khoa và SV giỏi (xếp loại học lực giỏi hoặc/và có
+kết quả học tập của môn học SV tham gia hỗ trợ đạt loại giỏi) bậc đại
+học năm cuối khóa của PFIEV, VJEP và CTTN (tương ứng cho các chương
+trình PFIEV, VJEP và CTTN), những người có kinh nghiệm thực tiễn ở trong
+và ngoài trường.
+
+  Phụ lục 4. Tiêu chuẩn giảng viên tham gia đào tạo trình độ thạc sĩ
+
+Giảng viên đào tạo trình độ thạc sĩ là người làm nhiệm vụ giảng dạy các
+học phần trong chương trình đào tạo trình độ thạc sĩ hoặc hướng dẫn học
+viên thực hành, thực tập, thực hiện đề tài luận văn thạc sĩ.
+
+4.1. Tiêu chuẩn giảng viên tham gia đào tạo trình độ thạc sĩ
+
+1. Đáp ứng các quy định về tiêu chuẩn giảng viên quy định tại Điều lệ
+trường Đại học.
+
+2. Đạt trình độ chuẩn được đào tạo:
+
+- Có bằng tiến sĩ, tiến sĩ khoa học hoặc có chức danh giáo sư, phó giáo
+sư đối với giảng viên tham gia giảng dạy các học phần lý thuyết.
+
+- Có bằng thạc sĩ đối với giảng viên giảng dạy học phần ngoại ngữ cho
+các ngành không chuyên ngôn ngữ nước ngoài, giảng viên giảng dạy học
+phần triết học hoặc giảng viên hướng dẫn học viên thực hành, thực tập.
+
+4.2. Tiêu chuẩn người hướng dẫn luận văn thạc sĩ
+
+1. Người hướng dẫn phải là giảng viên, nghiên cứu viên cơ hữu của
+ĐHQG-HCM.
+
+2. Người hướng dẫn và đồng hướng dẫn đảm bảo các điều kiện sau:
+
+a) Đạt trình độ tiến sĩ trở lên, chuyên môn phù hợp với hướng đề tài của
+học viên.
+
+b) Bảo đảm đủ năng lực ngoại ngữ, ứng dụng công nghệ thông tin để giảng
+dạy, nghiên cứu và trao đổi khoa học quốc tế.
+
+c) Có kết quả nghiên cứu khoa học liên quan đến đề tài luận văn trong
+thời gian 5 năm tính đến thời điểm được giao hướng dẫn;
+
+d) Đáp ứng những yêu cầu khác theo chuẩn chương trình đào tạo của ngành,
+lĩnh vực đào tạo và quy định của nhà trường.
+
+3. Đối với chương trình thạc sĩ ứng dụng, người đồng hướng dẫn có thể là
+thạc sĩ đạt học vị từ 3 năm trở lên và phải đáp ứng một trong các tiêu
+chuẩn sau:
+
+- Có chuyên môn phù hợp với hướng đề tài của học viên
+
+- Có tối thiểu 5 năm kinh nghiệm làm công tác thực tế thuộc lĩnh vực của
+đề tài.
+
+- Có tối thiểu 2 năm giữ chức vụ lãnh đạo cơ quan, đơn vị sử dụng kết
+quả nghiên cứu của luận văn.
+
+4. Đối với chương trình nghiên cứu theo phương thức 1, người hướng dẫn
+phải đáp ứng một trong các tiêu chuẩn sau:
+
+a) Đảm bảo các điều kiện được quy định tại khoản 2 của Điều này.
+
+b) Trong thời gian 5 năm tính đến thời điểm có quyết định nhận hướng dẫn
+luận văn phải đáp ứng một trong các tiêu chuẩn sau:
+
+- Là tác giả chính của tối thiểu 1 bài báo công bố trên tạp chí khoa học
+thuộc danh mục Web of Science/Scopus.
+
+- Là đồng tác giả của 2 bài báo công bố trên tạp chí khoa học thuộc danh
+mục Web of Science/Scopus.
+
+- Là tác giả/chủ sở hữu hoặc đồng tác giả/đồng chủ sở hữu của 1 kết quả
+nghiên cứu, ứng dụng khoa học, công nghệ đã đăng ký và được bảo hộ quyền
+sở hữu trí tuệ quốc gia hoặc quốc tế.
+
+- Là tác giả chính hoặc đồng tác giả của 2 bài báo công bố đăng trên kỷ
+yếu hội thảo quốc tế xuất bản có chỉ số ISBN, tạp chí khoa học nước
+ngoài có phản biện thuộc lĩnh vực liên quan đến hướng đề tài của học
+viên.
+
+- Là tác giả chính của 03 bài báo khoa học công bố trên tạp chí khoa học
+chuyên ngành thuộc danh mục Hội đồng giáo sư nhà nước hoặc có 2 công
+trình chuyên khảo xuất bản phù hợp với hướng nghiên cứu đề tài của học
+viên đối với lĩnh vực Khoa học giáo dục và đào tạo giáo viên, Nhân văn,
+Khoa học xã hội và hành vi, Kinh doanh và quản lý.
+
+5. Chỉ tiêu hướng dẫn
+
+Tại một thời điểm người hướng dẫn là giáo sư, phó giáo sư hoặc tiến sĩ
+khoa học được hướng dẫn tối đa 7 học viên; là tiến sĩ được hướng dẫn tối
+đa 5 học viên (bao gồm cả học viên chương trình nghiên cứu và chương
+trình ứng dụng).
+
+6. Trường hợp có hai người hướng dẫn, trong quyết định giao đề tài, nhà
+trường cần ghi rõ người hướng dẫn và đồng hướng dẫn. Tỷ lệ % hướng dẫn
+của người hướng dẫn và người đồng hướng dẫn do Hiệu trưởng quy định
+nhưng tối đa là 50%.
+
+  Phụ lục 5. Tiêu chuẩn giảng viên tham gia đào tạo trình độ tiến sĩ
+
+5.1. Tiêu chuẩn giảng viên tham gia đào tạo trình độ tiến sĩ
+
+a) Là công dân Việt Nam hoặc công dân nước ngoài, có nhân thân rõ ràng;
+có phẩm chất, đạo đức tốt; có sức khỏe theo yêu cầu nghề nghiệp.
+
+b) Có chức danh giáo sư, phó giáo sư hoặc có bằng tiến sĩ khoa học, tiến
+sĩ có chuyên môn phù hợp với các học phần đảm nhiệm trong chương trình
+đào tạo. Đối với cán bộ hướng dẫn thực hành hoặc trợ giảng các học phần
+thuộc các ngành đặc thù có bằng thạc sĩ phải được Hiệu trưởng xem xét,
+đề nghị và trình Giám đốc ĐHQG-HCM phê duyệt.
+
+c) Tham gia các hoạt động nghiên cứu khoa học: đã hoặc đang chủ trì các
+nhiệm vụ khoa học và công nghệ cấp cơ sở trở lên hoặc đã và đang tham
+gia các nhiệm vụ khoa học công nghệ cấp bộ trở lên; là tác giả chính tối
+thiểu 02 bài báo hoặc công trình khoa học đăng trên các tạp chí khoa học
+chuyên ngành có trong danh mục của Hội đồng chức danh giáo sư Nhà nước
+trong vòng 05 năm tính tới thời điểm tham gia giảng dạy chương trình đào
+tạo trình độ tiến sĩ.
+
+5.2. Tiêu chuẩn người hướng dẫn nghiên cứu sinh
+
+1. Người hướng dẫn độc lập phải đảm bảo các yêu cầu sau:
+
+a) Là công dân Việt Nam hoặc công dân nước ngoài đáp ứng quy định tại
+khoản 1 Điều 54 Luật Giáo dục đại học và các quy định pháp luật khác có
+liên quan; trường hợp người hướng dẫn là nhà khoa học người nước ngoài,
+nhà khoa học Việt Nam đang làm việc ở nước ngoài thì phải có thỏa thuận
+về việc hướng dẫn nghiên cứu sinh với cơ sở đào tạo.
+
+b) Có chức danh giáo sư, phó giáo sư hoặc có bằng tiến sĩ khoa học, tiến
+sĩ có chuyên môn phù hợp.
+
+c) Trong thời gian 05 năm tính đến thời điểm có quyết định công nhận
+hướng dẫn nghiên cứu sinh phải: (i) là tác giả chính của tối thiểu 01
+bài báo công bố trên tạp chí khoa học thuộc danh mục ISI hoặc Scopus
+(sau đây gọi chung là danh mục các tạp chí ISI/Scopus); hoặc (ii) là
+đồng tác giả 02 bài báo công bố trên tạp chí khoa học thuộc danh mục
+ISI/Scopus; hoặc (iii) là chủ nhân hoặc đồng chủ nhân của 01 kết quả
+nghiên cứu, ứng dụng khoa học, công nghệ đã đăng ký và được cấp bằng độc
+quyền sáng chế quốc gia hoặc quốc tế; hoặc (iv) là tác giả chính hoặc
+đồng tác giả 02 bài báo công bố trên kỷ yếu hội thảo quốc tế, tạp chí
+khoa học nước ngoài có phản biện hoặc có chỉ số ISBN/ISSN. Các công
+trình này thuộc lĩnh vực liên quan đến đề tài luận án của nghiên cứu
+sinh.
+
+d) Trường hợp chưa có chức danh giáo sư hoặc phó giáo sư thì phải có tối
+thiểu 03 năm (36 tháng) làm công tác nghiên cứu khoa học hoặc giảng dạy
+kể từ khi có quyết định cấp bằng tiến sĩ và trong thời gian 05 năm tính
+đến thời điểm có quyết định công nhận hướng dẫn nghiên cứu sinh phải đáp
+ứng: (i) quy định tại điểm c khoản này và là tác giả chính của thêm 01
+bài báo công bố trên tạp chí khoa học thuộc danh mục các tạp chí
+ISI/Scopus; (ii) hoặc quy định tại điểm c khoản này và minh chứng thêm
+01 giải thưởng chính thức của các cuộc thi quốc gia hoặc quốc tế trong
+lĩnh vực văn hóa nghệ thuật và thể dục thể thao.
+
+đ) Bảo đảm đủ năng lực ngoại ngữ phục vụ nghiên cứu và trao đổi khoa học
+quốc tế.
+
+e) Là giảng viên hoặc nghiên cứu viên cơ hữu của Trường Đại học Bách
+Khoa, ĐHQG-HCM.
+
+2. Mỗi nghiên cứu sinh có tối đa 02 người hướng dẫn, trong đó:
+
+a) Người hướng dẫn chính phải đáp ứng đầy đủ các tiêu chuẩn quy định tại
+điểm a, b, c, d, đ khoản 1.
+
+b) Người hướng dẫn phụ phải đáp ứng các tiêu chuẩn quy định tại điểm a
+và b khoản 1 và là tác giả hoặc đồng tác giả tối thiểu 05 bài báo công
+bố trên các tạp chí khoa học chuyên ngành phù hợp trong thời gian 05 năm
+tính đến thời điểm có quyết định công nhận hướng dẫn nghiên cứu sinh.
+Đối với người chưa có chức danh giáo sư, phó giáo sư, ngoài các yêu cầu
+như đã nêu trên thì phải có tối thiểu 03 năm (36 tháng) làm công tác
+nghiên cứu khoa học hoặc giảng dạy kể từ khi có quyết định cấp bằng tiến
+sĩ;
+
+c) Ít nhất phải có một người là giảng viên, nghiên cứu viên cơ hữu của
+Trường Đại học Bách Khoa, ĐHQG-HCM.
+
+3. Tại cùng một thời điểm, người có chức danh giáo sư, phó giáo sư được
+hướng dẫn độc lập, đồng hướng dẫn tối đa 07 nghiên cứu sinh; người có
+bằng tiến sĩ khoa học hoặc bằng tiến sĩ được hướng dẫn độc lập, đồng
+hướng dẫn tối đa 05 nghiên cứu sinh. Đối với người hướng dẫn có nhiều
+công trình khoa học (là tác giả chính có từ 03 công trình khoa học đăng
+trên tạp chí thuộc danh mục các tạp chí ISI - Scopus/năm trở lên, liên
+tục trong 03 năm gần nhất), có các đề tài hỗ trợ kinh phí cho nghiên cứu
+sinh, nhà trường báo cáo ĐHQG-HCM xem xét việc tăng số lượng nghiên cứu
+sinh được hướng dẫn.
+
+Không được hướng dẫn hoặc đồng hướng dẫn nghiên cứu sinh mới nếu trong
+vòng 06 năm (72 tháng) tính đến thời điểm được giao nhiệm vụ có 02
+nghiên cứu sinh có luận án không được hội đồng đánh giá luận án cấp
+Trường thông qua.

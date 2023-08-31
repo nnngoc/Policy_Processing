@@ -1,0 +1,9 @@
+pypandoc
+python-docx
+
+py_vncorenlp
+vncorenlp
+gensim==4.3.0
+nltk
+numpy
+pandas
