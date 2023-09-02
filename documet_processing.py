@@ -259,7 +259,3 @@ def split_file(file_name):
 for folder_path in os.listdir(constant.PASSAGE_FOLDER):
     for filename in os.listdir(constant.PASSAGE_FOLDER + '/' + folder_path):
         split_file(constant.PASSAGE_FOLDER + '/' + folder_path+'/'+filename)
-        
-# =================================================================================
-# 8. CREATE NEW IDEX
-# =================================================================================

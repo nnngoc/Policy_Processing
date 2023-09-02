@@ -9,4 +9,8 @@ loader.py
 test_index.py
 role.json
 
-retrieval_index
+data/retrieval_index/master
+data/retrieval_index/phd
+data/retrieval_index/undergraduate
+
+resource/vncorenlp

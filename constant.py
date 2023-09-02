@@ -27,4 +27,9 @@ SUBSUB_SECTION_PATERN = r"[1-9][0-9]*\."
 ROLE_PATH = "role.json"
 ROLE_LIST = ["phd", "master", "undergraduate"]
 
-RETRIEVAL_INDEX_FOLDER = "retrieval_index"
+RETRIEVAL_INDEX_FOLDER = "data/retrieval_index"
+VNCORENLP_PATH = 'resource/vncorenlp/'
+VNCORENLP_MODEL_PATH = 'resource/vncorenlp/VnCoreNLP-1.2.jar'
+
+RETRIEVER_K = 2
+RETRIEVER_B = 0.85
