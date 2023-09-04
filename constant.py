@@ -1,7 +1,8 @@
 PYPANDOC_FOLDER_PATH = 'resource/pypandoc'
 PYPANDOC_PATH = 'resource/pypandoc/pandoc'
 
-POLICY_WORD_FOLDER = "data/policy/word"
+# POLICY_WORD_FOLDER = "data/policy/word"
+POLICY_WORD_FOLDER = "policy"
 POLICY_PROCESSED_WORD_FOLDER = "data/policy/removed_table_words"
 POLICY_INDEX_FOLDER = "data/policy/index"
 POLICY_TEXT_FOLDER = "data/policy/text"

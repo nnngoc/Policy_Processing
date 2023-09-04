@@ -3,7 +3,7 @@ name: Trigger policy process
 on:
   push:
     paths:
-      - 'data.dvc' 
+      - 'policy.dvc' 
 
 jobs:
   trigger_kaggle_notebook:
