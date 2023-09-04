@@ -1,0 +1,7 @@
+{
+    "QUY ĐỊNH CHUNG VỀ HỌC VỤ VÀ ĐÀO TẠO": ["phd", "master", "undergraduate"],
+    "QUY ĐỊNH GIẢNG DẠY": ["phd", "master", "undergraduate"],
+    "QUY ĐỊNH VỀ CẤU TRÚC CHƯƠNG TRÌNH ĐÀO TẠO": ["phd", "master", "undergraduate"],
+    "QUY ĐỊNH VỀ ĐÀO TẠO TRÌNH ĐỘ TIẾN SĨ": ["phd"],
+    "QUY ĐỊNH VỀ TỔ CHỨC VÀ QUẢN LÝ ĐÀO TẠO TRÌNH ĐỘ THẠC SĨ": ["master"]
+}

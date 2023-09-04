@@ -2,13 +2,6 @@ __pycache__/
 venv
 pandoc-3.1.6.2-1-amd64.deb
 
-bm25.py
-create_index.py
-loader.py
-
-test_index.py
-role.json
-
 data/retrieval_index/master
 data/retrieval_index/phd
 data/retrieval_index/undergraduate
