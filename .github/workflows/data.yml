@@ -27,6 +27,6 @@ jobs:
         run: |
           dvc get https://dagshub.com/nnngoc/Policy_Processing policy-data
           dvc get https://dagshub.com/nnngoc/Policy_Processing vncorenlp
-          python -c "import; nltk.download('punkt')"
+          python -c "import nltk; nltk.download('punkt')"
           python document_processing.py
           python create_index.py
