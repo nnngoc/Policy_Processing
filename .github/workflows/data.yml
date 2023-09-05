@@ -25,5 +25,6 @@ jobs:
 
       - name: Trigger policy process
         run: |
+          dvc get https://dagshub.com/nnngoc/Policy_Processing policy-data
           python document_processing.py
           python create_index.py
