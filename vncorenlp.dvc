@@ -1,0 +1,6 @@
+outs:
+- md5: ca38e2627f6d5c177212babf49157ef2.dir
+  size: 146696479
+  nfiles: 8
+  hash: md5
+  path: vncorenlp
