@@ -26,6 +26,7 @@ jobs:
       - name: Trigger policy process
         run: |
           dvc get https://dagshub.com/nnngoc/Policy_Processing policy-data
+          mkdir -p resource/vncorenlp/models
           python -c "import py_vncorenlp; py_vncorenlp.download_model(save_dir='resource/vncorenlp/')"
           python document_processing.py
           python create_index.py
