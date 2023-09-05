@@ -7,5 +7,5 @@ data/retrieval_index/phd
 data/retrieval_index/undergraduate
 
 resource/vncorenlp
-policy
-/policy-data
+policy-data
+vncorenlp

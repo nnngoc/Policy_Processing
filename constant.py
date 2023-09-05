@@ -29,8 +29,11 @@ ROLE_PATH = "role.json"
 ROLE_LIST = ["phd", "master", "undergraduate"]
 
 RETRIEVAL_INDEX_FOLDER = "data/retrieval_index"
-VNCORENLP_PATH = 'resource/vncorenlp/'
-VNCORENLP_MODEL_PATH = 'resource/vncorenlp/VnCoreNLP-1.2.jar'
+# VNCORENLP_PATH = 'resource/vncorenlp/'
+# VNCORENLP_MODEL_PATH = 'resource/vncorenlp/VnCoreNLP-1.2.jar'
+
+VNCORENLP_PATH = 'vncorenlp/'
+VNCORENLP_MODEL_PATH = 'vncorenlp/VnCoreNLP-1.2.jar'
 
 RETRIEVER_K = 2
 RETRIEVER_B = 0.85
