@@ -1,0 +1,6 @@
+outs:
+- md5: 577a847cfbd56a709059b90cb0dc8b13.dir
+  size: 391741
+  nfiles: 426
+  hash: md5
+  path: split-policy-data
