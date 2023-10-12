@@ -1,0 +1,6 @@
+outs:
+- md5: 78c2e82fdae363e7cf885fdf00b5fe36.dir
+  size: 195438
+  nfiles: 1
+  hash: md5
+  path: instruction-data-2
