@@ -10,3 +10,7 @@ resource/vncorenlp
 policy-data
 vncorenlp
 /split-policy-data
+/policy-data
+/policy-data-pdf
+/instruction-data
+/instruction-data-2
