@@ -1,0 +1,5 @@
+outs:
+    - md5: b91a7fc5ff397da971d86122aea356cf.dir
+      size: 1914566
+      path: policy-data-pdf
+      nfiles: 5
