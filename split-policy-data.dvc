@@ -1,5 +1,5 @@
 outs:
-    - md5: 8c33dae3c550829296202506bfe1ae56.dir
-      size: 89200
+    - md5: 3860f6de3264a4552db076c63ab0f9f7.dir
+      size: 172000
       path: split-policy-data
-      nfiles: 100
+      nfiles: 200
