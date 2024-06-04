@@ -5,7 +5,6 @@ import string
 import shutil
 # from pprint import pprint
 from docx import Document
-
 import constant
 
 
